@@ -1,0 +1,41 @@
+# MongoDB
+*.log
+dump/
+data/*.bson
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporales
+tmp/
+temp/
+*.tmp
+
+# Capturas de pantalla (opcional - descomentar si no quieres subir capturas)
+# screenshots/*.png
+# screenshots/*.jpg
+
+# PDFs grandes (opcional - descomentar si el PDF es muy grande)
+# docs/*.pdf
+
+# Node modules (si se usa alguna herramienta)
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+env/
+
+# Archivos de respaldo
+*.bak
+*.backup
