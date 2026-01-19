@@ -132,7 +132,7 @@ db.movies.updateOne(
 )
 ```
 
-**Descripción**: Añade "Hugo Weaving" al array de actores de "The Matrix".
+**Descripción**: Añade "Hugo Weaving" al array de actores de "The Matrix". Este ejercicio demuestra el uso del operador `$push` para agregar elementos a un array. (Nota: Hugo Weaving interpretó al Agente Smith en la película original, este es un ejemplo con fines demostrativos).
 
 ---
 

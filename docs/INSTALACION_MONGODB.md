@@ -31,9 +31,18 @@ Esta guía te ayudará a instalar y configurar MongoDB en diferentes sistemas op
 
 #### Opción 2: Usando Chocolatey
 
+**Nota:** Ejecutar PowerShell como Administrador
+
 ```powershell
+# Instalar MongoDB
 choco install mongodb
+
+# Instalar MongoDB Compass (opcional)
 choco install mongodb-compass
+
+# Verificar instalación
+mongod --version
+mongosh --version
 ```
 
 ---

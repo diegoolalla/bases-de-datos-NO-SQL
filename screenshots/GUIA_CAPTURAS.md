@@ -236,7 +236,7 @@ movies_db>
 ### Linux
 1. **Flameshot** (recomendado)
    ```bash
-   sudo apt install flameshot
+   sudo apt update && sudo apt install flameshot
    flameshot gui
    ```
 
