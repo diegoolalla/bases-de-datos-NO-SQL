@@ -1,4 +1,4 @@
-# bases-de-datos-NO-SQL
+# Bases-de-datos-NO-SQL
 Tarea bases de datos NO SQL
 
 
